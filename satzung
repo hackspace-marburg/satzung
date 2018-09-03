@@ -18,24 +18,24 @@ und das Wissen um diese Entwicklung fördert.
 2. Er soll in das Vereinsregister eingetragen werden und führt danach den Zusatz e.V.
 
 3. Der Sitz des Vereins ist in Marburg. [TODO ADRESSE postalisch ereichbar muss sein] Manu ist ok
-
+  [ggf. Adresse des Rathaus]
 §2 Zweck
 
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordung (AO).
 
-2. Das betreieben eiens öftenlich Raum (mit einer Spülmaschine)
+2. Das betreieben eienes öftenlichen Raums
    Informationsveranstaltungen zur Förderung öffentlicher Auseinandersetzung mit Themen wie Datenschutz, Computersicherheit, Medienkompetenz
-  
+
   Informationsaustausch mit den in der Datenschutzgesetzgebung vorgesehenen Kontrollorganen
-  
+
   Vorführung von Filmen, insb. Dokumentationen, Vortragsmitschnitten und Kritiken zu Datenschutz, neuen Medien, IT-Sicherheit oder technischen Entwicklungen
 
   Projekte zur Förderung/Bildung/Erziehung der Jugend in o.g. Bereichen, z.B. angeleitete Entwicklung von Software-, Hardware- oder Elektronik-Komponenten, spezielle Bildungsveranstaltungen, Kooperation mit Schulen etc.
 
   Vernetzung von bestehenden Gruppen, z.B. User-Groups, Stammtische, Computerclubs, etc.
-  
+
   Kontaktvermittlung zu bestehenden Gruppen
-  
+
   Bereitstellung von Arbeits- und Seminarräumen für Projektarbeit im Sinne des Satzungszwecks u.a. Einrichtung eines Hardwarelabors
 
 3. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
@@ -47,8 +47,11 @@ und das Wissen um diese Entwicklung fördert.
 
 § 3 Mitgliedschaft
 
-1. Mitglied des Vereins kann jede natürliche Person 
+1. Mitglied des Vereins kann jede natürliche Person und juristische sein
+
+
 TODO Korporative Mitglieder oder Juristische Personen als normales Mitglied?
+
 
 2. Über den Aufnahmeantrag entscheidet der Vorstand. Gegen die Ablehnung steht der sich bewerbenden Person die Berufung an die Mitgliederversammlung zu, die schriftlich binnen einem Monat an den Vorstand zu richten ist.
 
@@ -85,17 +88,17 @@ TODO Korporative Mitglieder oder Juristische Personen als normales Mitglied?
 
 1. Der Gesamtvorstand des Vereins besteht (TODO ?mindestens?) aus dem 1. Vorsitzenden, dem 2. Vorsitzenden, dem Schatzmeister und dem Schriftführer.
 
-2. Der vertretungsberechtigte Vorstand im Sinne des § 26 BGB besteht aus dem 1. Vorsitzenden und dem 2. Vorsitzenden. Jeder von ihnen vertritt den Verein einzeln. 
+2. Der vertretungsberechtigte Vorstand im Sinne des § 26 BGB besteht aus dem 1. Vorsitzenden und dem 2. Vorsitzenden. Jeder von ihnen vertritt den Verein einzeln.
 
 3. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren gewählt; jedes Vorstandsmitglied bleibt jedoch so lange im Amt bis eine Neuwahl erfolgt ist.
 
 § 7 Mitgliederversammlung
-1. Die ordentliche Mitgliederversammlung findet einmal jährlich statt. Außerdem muss eine Mitgliederversammlung einberufen werden, wenn das Interesse des Vereins es erfordert oder wenn  mindestens 1/10 der Mitglieder die Einberufung schriftlich unter Angabe des Zwecks und der Gründe 
+1. Die ordentliche Mitgliederversammlung findet einmal jährlich statt. Außerdem muss eine Mitgliederversammlung einberufen werden, wenn das Interesse des Vereins es erfordert oder wenn  mindestens 1/5 der Mitglieder die Einberufung schriftlich unter Angabe des Zwecks und der Gründe
 verlangt.
 
 2. Jede Mitgliederversammlung ist vom Vorstand schriftlich oder in Textform per E-Mail unter Einhaltung einer Einladungsfrist von Wochen und unter Angabe der Tagesordnung einzuberufen.
 
-3. Versammlungsleiter ist der 1. Vorsitzende und im Falle seiner Verhinderung der 2. Vorsitzende. Sollten beide nicht anwesend sein, wird ein Versammlungsleiter von der Mitgliederversammlung gewählt. 
+3. Versammlungsleiter ist der 1. Vorsitzende und im Falle seiner Verhinderung der 2. Vorsitzende. Sollten beide nicht anwesend sein, wird ein Versammlungsleiter von der Mitgliederversammlung gewählt.
 Soweit der Schriftführer nicht anwesend ist, wird auch dieser von der Mitgliederversammlung bestimmt.
 
 4. Jede ordnungsgemäß einberufene Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.
@@ -108,9 +111,9 @@ TODO: Ehrenmitgliedschaft regelt 3.8
 
 § 8 Auflösung, Anfall des Vereinsvermögens
 
-1. Zur Auflösung des Vereins ist eine Mehrheit von 4/5 der abgegebenen gültigen Stimmen 
+1. Zur Auflösung des Vereins ist eine Mehrheit von 4/5 der abgegebenen gültigen Stimmen
 erforderlich.
 
-2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das 
-Vermögen des Vereins an 
+2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das
+Vermögen des Vereins an
 TODO: Wer soll begünstigt werden? (CCC)
