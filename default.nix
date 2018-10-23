@@ -2,7 +2,7 @@ with import <nixpkgs> {};
 
 let
   texliveComb = texlive.combine {
-    inherit (texlive) scheme-small IEEEtran;
+    inherit (texlive) scheme-small german IEEEtran;
   };
 in stdenv.mkDerivation {
   name = "satzung-hsmr";
