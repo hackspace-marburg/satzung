@@ -1,157 +1,30 @@
-% Based on https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-large-2-column-format-template/qwcgpbmkkvpq
-\documentclass[acmtog,authorversion]{acmart}
-\usepackage{booktabs} % For formal tables
+\documentclass[technote]{IEEEtran}
 
-% TOG prefers author-name bib system with square brackets
-\citestyle{acmauthoryear}
-\setcitestyle{square}
+\usepackage[utf8]{inputenc}
 
+\pagenumbering{gobble}
 
-\usepackage[ruled]{algorithm2e} % For algorithms
-\renewcommand{\algorithmcfname}{ALGORITHM}
-\SetAlFnt{\small}
-\SetAlCapFnt{\small}
-\SetAlCapNameFnt{\small}
-\SetAlCapHSkip{0pt}
-\IncMargin{-\parindent}
+\usepackage{hyperref}
 
-% Metadata Information
-\acmJournal{TOG}
-\acmVolume{9}
-\acmNumber{4}
-\acmArticle{39}
-\acmYear{2010}
-\acmMonth{3}
+\ifCLASSINFOpdf
+  \usepackage[pdftex]{graphicx}
+  \DeclareGraphicsExtensions{.pdf,.jpeg,.png}
+\else
+  \usepackage[dvips]{graphicx}
+\fi
 
-% Copyright
-%\setcopyright{acmcopyright}
-%\setcopyright{acmlicensed}
-%\setcopyright{rightsretained}
-%\setcopyright{usgov}
-\setcopyright{usgovmixed}
-%\setcopyright{cagov}
-%\setcopyright{cagovmixed}
-
-% DOI
-\acmDOI{0000001.0000001_2}
-
-% Paper history
-\received{February 2007}
-\received{March 2009}
-\received[final version]{June 2009}
-\received[accepted]{July 2009}
+\hyphenation{op-tical net-works semi-conduc-tor}
 
 
-% Document starts
 \begin{document}
-% Title portion
-\title{A Multifrequency MAC Specially Designed for Wireless Sensor
-  Network Applications}
-
-\author{Gang Zhou}
-\orcid{1234-5678-9012-3456}
-\affiliation{%
-  \institution{College of William and Mary}
-  \streetaddress{104 Jamestown Rd}
-  \city{Williamsburg}
-  \state{VA}
-  \postcode{23185}
-  \country{USA}}
-\email{gang_zhou@wm.edu}
-\author{Valerie B\'eranger}
-\affiliation{%
-  \institution{Inria Paris-Rocquencourt}
-  \city{Rocquencourt}
-  \country{France}
-}
-\email{beranger@inria.fr}
-\author{Aparna Patel}
-\affiliation{%
- \institution{Rajiv Gandhi University}
- \streetaddress{Rono-Hills}
- \city{Doimukh}
- \state{Arunachal Pradesh}
- \country{India}}
-\email{aprna_patel@rguhs.ac.in}
-\author{Huifen Chan}
-\affiliation{%
-  \institution{Tsinghua University}
-  \streetaddress{30 Shuangqing Rd}
-  \city{Haidian Qu}
-  \state{Beijing Shi}
-  \country{China}
-}
-\email{chan0345@tsinghua.edu.cn}
-\author{Ting Yan}
-\affiliation{%
-  \institution{Eaton Innovation Center}
-  \city{Prague}
-  \country{Czech Republic}}
-\email{yanting02@gmail.com}
-\author{Tian He}
-\affiliation{%
-  \institution{University of Virginia}
-  \department{School of Engineering}
-  \city{Charlottesville}
-  \state{VA}
-  \postcode{22903}
-  \country{USA}
-}
-\affiliation{%
-  \institution{University of Minnesota}
-  \country{USA}}
-\email{tinghe@uva.edu}
-\author{Chengdu Huang}
-\author{John A. Stankovic}
-\author{Tarek F. Abdelzaher}
-\affiliation{%
-  \institution{University of Virginia}
-  \department{School of Engineering}
-  \city{Charlottesville}
-  \state{VA}
-  \postcode{22903}
-  \country{USA}
-}
-
-\renewcommand\shortauthors{Zhou, G. et al}
-
-\begin{abstract}
-Multifrequency media access control has been well understood in
-general wireless ad hoc networks, while in wireless sensor networks,
-researchers still focus on single frequency solutions. In wireless
-sensor networks, each device is typically equipped with a single
-radio transceiver and applications adopt much smaller packet sizes
-compared to those in general wireless ad hoc networks. Hence, the
-multifrequency MAC protocols proposed for general wireless ad hoc
-networks are not suitable for wireless sensor network applications,
-which we further demonstrate through our simulation experiments. In
-this article, we propose MMSN, which takes advantage of
-multifrequency availability while, at the same time, takes into
-consideration the restrictions of wireless sensor networks. Through
-extensive experiments, MMSN exhibits the prominent ability to utilize
-parallel transmissions among neighboring nodes. When multiple physical
-frequencies are available, it also achieves increased energy
-efficiency, demonstrating the ability to work against radio
-interference and the tolerance to a wide range of measured time
-synchronization errors.
-\end{abstract}
-
-
-\ccsdesc[500]{Computer systems organization~Embedded systems}
-\ccsdesc[300]{Computer systems organization~Redundancy}
-\ccsdesc{Computer systems organization~Robotics}
-\ccsdesc[100]{Networks~Network reliability}
-
-%
-% End generated code
-%
-
-
-\keywords{Wireless sensor networks, media access control,
-multi-channel, radio interference, time synchronization}
-
-
+\title{Satzung [hsmr]}
+\author{}
 
 \maketitle
+
+\section{Lorem Ipsum}
+Lorem ebin benis :--Dddd
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 \end{document}

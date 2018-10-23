@@ -2,9 +2,7 @@ with import <nixpkgs> {};
 
 let
   texliveComb = texlive.combine {
-    inherit (texlive) scheme-small
-    acmart algorithm2e cm-super comment environ ifoddpage
-    ncctools relsize trimspaces totpages xstring;
+    inherit (texlive) scheme-small IEEEtran;
   };
 in stdenv.mkDerivation {
   name = "satzung-hsmr";
